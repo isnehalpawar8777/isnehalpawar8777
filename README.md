@@ -11,9 +11,22 @@ Currently a student at KIT'S college of engineering Kolhapur ✔ And a self taug
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything, I am happy to help and collaborate👍
 -📫 Please email via isnehalpawar8777@gmail.com or ping me on https://www.linkedin.com/in/snehal-pawar-711259208/ to reach me;
-- 🤔 My interests are with Machine learning, big movies and music fan 🎶🎵 a really foodie 🍫🥣 person and love to **Travel🚲**
--->
---I'm currently working on 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
-https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg
+- 🤔 My interests are with Machine learning, big movies and music fan 🎶🎵 a really **foodie** person 🍫🥣  and love to **Travel🚲** Extrovert in nature😁
+
+
+**I'm currently working on** 
+Various Machine Learning and Data Science projects
+
+**I am GOOD at🔥**
+
+***Domain***: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization.
+
+***Languages***: Python, C, SQL.
+
+***Libraries & Tools***: AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, Matplotlib,Seaborn.
+
+***Data Analysis***: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
+
+
+
 
