@@ -1,9 +1,11 @@
-### Hi there, I'm Snehal 👋
+### Hi there, I'm Snehal ![Hi](https://user-images.githubusercontent.com/85157148/160987145-9905222d-bef0-4010-89d2-704188404eb8.gif)
+
 
 <!--
 **isnehalpawar8777/isnehalpawar8777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Currently a student at KIT'S college of engineering Kolhapur ✔ And a self taught Data Science and Machine Learning enthusias 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
