@@ -5,7 +5,8 @@
 **isnehalpawar8777/isnehalpawar8777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-Currently a student at KIT'S college of engineering Kolhapur ✔ And a self taught Data Science and Machine Learning enthusias 
+Currently a student at KIT'S college of engineering Kolhapur ✔ And a self taught Data Science and Machine Learning enthusiast ![Developer](https://user-images.githubusercontent.com/85157148/160987314-1608be63-49d2-4294-bb70-018f51d62773.gif) Learning all data science and machine learning stuff makes me confident about learning new things 😊
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
