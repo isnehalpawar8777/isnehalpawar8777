@@ -17,7 +17,7 @@ Various Machine Learning and Data Science projects
 
 **I am GOOD at🔥**
 
-***Domain***: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization.
+***Domain***:  Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization,Machine Learning algorithm.
 
 ***Languages***: Python, C, SQL.
 
